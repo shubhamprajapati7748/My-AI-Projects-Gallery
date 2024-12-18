@@ -1,10 +1,9 @@
 | S No | Project Name                   | Domain        | Repository                                                                                                                                            | End-to-End              |
 | ---- | ------------------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| 01   | Diamond Price Prediction       | Regression    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati241/End-to-End-Diamond-Price-Prediction)       | <p align="center">✔</p> |
-| 02   | Chatbot using Gemini Pro       | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati241/chatbot-using-langchain)                   |
-| 03   | Chatbot using OpenAI           | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati241/chatbot-using-langchain)                   |
-| 04   | Boston House Price Prediction  | Regression    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati241/End-to-End-House-Price-Prediction)         | <p align="center">✔</p> |
-| 05   | Student Performance Prediction | Regression    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati241/End-to-End-Student-Performance-Prediction) | <p align="center">✔</p> |
+| 01   | Diamond Price Prediction       | Regression    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/End-to-End-Diamond-Price-Prediction)       | <p align="center">✔</p> |
+| 02   | Chatbot using Gemini Pro       | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/gemini-pro-chat)                   |                 |
+| 03   | Boston House Price Prediction  | Regression    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/End-to-End-House-Price-Prediction)         | <p align="center">✔</p> |
+| 04   | Student Performance Prediction | Regression    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/End-to-End-Student-Performance-Prediction) | <p align="center">✔</p> |
 
 ## Many more projects will be uploaded soon!
 
