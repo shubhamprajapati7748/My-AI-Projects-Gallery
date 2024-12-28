@@ -6,7 +6,8 @@
 | 04   | Student Performance Prediction | Regression    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/End-to-End-Student-Performance-Prediction) | <p align="center">✔</p> |
 | 05   | Bank Customer Churn Prediction      | Deep Learning      | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/Bank-Customer-Churn-Prediction)       | <p align="center">✔</p> |
 | 06   | StockBotX - Stock AI-Agent      | Agentic AI    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/StockBotX)       | <p align="center">✔</p> |
-
+| 07   | ResumePerfector.ai      | Generative AI  | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/resume-perfector.ai)       | <p align="center">✔</p> |
+| 08   | Bank Customer Salary Prediction      | Deep Learning      | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/Bank-Customer-Salary-Prediction)       | <p align="center">✔</p> |
 
 ## Many more projects will be uploaded soon!
 
