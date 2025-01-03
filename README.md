@@ -8,8 +8,9 @@
 | 06   | StockBotX - Stock AI-Agent      | Agentic AI    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/StockBotX)       | <p align="center">✔</p> |
 | 07   | ResumePerfector.ai      | Generative AI  | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/resume-perfector.ai)       | <p align="center">✔</p> |
 | 08   | Bank Customer Salary Prediction      | Deep Learning      | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/Bank-Customer-Salary-Prediction)       | <p align="center">✔</p> |
-| 09   | CineReviewX - Movies Sentiment Analyzers   | Deep Learning      | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/CineReviewX)       |  |
+| 09   | CineReviewX - Movies Sentiment Analyzers   | Deep Learning    | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/CineReviewX)       |  |
 | 10   | Weblify.ai      | Generative AI      | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/weblify.ai)       | <p align="center">✔</p> |
+| 11   | NextWordPredictor      | Deep Learning - LSTM | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/shubhamprajapati7748/next-word-predictor)       | <p align="center">✔</p> |
 
 ## Many more projects will be uploaded soon!
 
